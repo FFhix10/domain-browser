@@ -109,7 +109,7 @@
     "assert-helpers": "^8.1.0",
     "kava": "^5.12.0",
     "projectz": "^2.16.0",
-    "valid-directory": "^3.4.0"
+    "valid-directory": "^3.6.0"
   },
   "scripts": {
     "our:clean": "rm -Rf ./docs ./edition* ./es2015 ./es5 ./out ./.next",
